@@ -16,7 +16,7 @@ function getConfig() {
   switch (NODE_ENV) {
     case 'production':
       return {
-        baseUrl: 'https://survey.vukory.art',
+        baseUrl: 'https://pilot.vukory.art',
         apiBaseUrl: 'https://api.vukory.art',
         env: NODE_ENV,
       };

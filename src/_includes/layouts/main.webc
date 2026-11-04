@@ -15,7 +15,7 @@
   <link rel="stylesheet" href="../../global.css" />
   <link webc:keep :href="getBundleFileUrl('css')" rel="stylesheet">
   <script webc:keep async
-    src="https://plausible.falco.fun/js/pa-cLPh3hvx5IzB08rR93-zj.js"></script>
+    src="https://plausible.falco.fun/js/pa-J2CwSYYRWBRfnEVYvWJpR.js"></script>
   <script webc:keep>
     window.plausible = window.plausible || function () { (plausible.q = plausible.q || []).push(arguments) }, plausible.init = plausible.init || function (i) { plausible.o = i || {} };
     plausible.init()

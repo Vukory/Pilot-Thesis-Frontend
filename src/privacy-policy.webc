@@ -21,7 +21,7 @@ layout: layouts/main.webc
     <p>
       This site uses Plausible for analytics. Plausible is a privacy-friendly,
       Open Source tool that uses no cookies. It&apos;s self-hosted by an SVGO
-      maintainer, and <a href="https://plausible.falco.fun/survey.vukory.art" target="_blank">the dashboard</a>
+      maintainer, and <a href="https://plausible.falco.fun/pilot.vukory.art" target="_blank">the dashboard</a>
       is fully public, so you can see exactly what I see. No secrets <span role="img" aria-label="uwu">:3</span>
     </p>
     <p>
@@ -83,7 +83,7 @@ layout: layouts/main.webc
           </tr>
           <tr>
             <td>Falco&apos;s Tea Party</td>
-            <td>Self-Hosts <a href="https://plausible.falco.fun/survey.vukory.art" target="_blank">Plausible</a></td>
+            <td>Self-Hosts <a href="https://plausible.falco.fun/pilot.vukory.art" target="_blank">Plausible</a></td>
             <td>United Kingdom <span class="emojis" aria-hidden="true">🇬🇧</span></td>
           </tr>
           <tr>
